@@ -1,4 +1,5 @@
 import React from 'react'
+import ExampleButton from './Buttons/ExampleStyledComponent'
 
 const About = () => (
   <section id="about" className="success">
@@ -21,6 +22,22 @@ const About = () => (
              <i className="fa fa-code-fork"></i> Fork me on Github
           </a>
         </div>
+
+        {/*<div className="col-lg-8 col-lg-offset-2 text-center">*/}
+
+          {/*<ExampleButton>*/}
+              {/*Example Default Button*/}
+          {/*</ExampleButton>*/}
+
+          {/*<ExampleButton primary>*/}
+              {/*Example Primary Button*/}
+          {/*</ExampleButton>*/}
+
+          {/*<ExampleButton secondary>*/}
+              {/*Example Secondary Button*/}
+          {/*</ExampleButton>*/}
+
+        {/*</div>*/}
       </div>
     </div>
   </section>
