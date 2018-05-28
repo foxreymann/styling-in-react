@@ -38,6 +38,7 @@ const About = () => (
           {/*</ExampleButton>*/}
 
         {/*</div>*/}
+
       </div>
     </div>
   </section>
