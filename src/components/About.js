@@ -23,21 +23,21 @@ const About = () => (
           </a>
         </div>
 
-        {/*<div className="col-lg-8 col-lg-offset-2 text-center">*/}
+        <div className="col-lg-8 col-lg-offset-2 text-center">
 
-          {/*<ExampleButton>*/}
-              {/*Example Default Button*/}
-          {/*</ExampleButton>*/}
+          <ExampleButton>
+              Example Default Button
+          </ExampleButton>
 
-          {/*<ExampleButton primary>*/}
-              {/*Example Primary Button*/}
-          {/*</ExampleButton>*/}
+          <ExampleButton primary>
+              Example Primary Button
+          </ExampleButton>
 
-          {/*<ExampleButton secondary>*/}
-              {/*Example Secondary Button*/}
-          {/*</ExampleButton>*/}
+          <ExampleButton secondary>
+              Example Secondary Button
+          </ExampleButton>
 
-        {/*</div>*/}
+        </div>
 
       </div>
     </div>
